@@ -2,7 +2,6 @@
 This is the repository for all the files of my personal website: djburn.com
 - [My Personal Website](http://www.djburn.com)
 
-
 ##Description
 Just wanted a place for my files in one (off site) spot.
 
@@ -13,5 +12,4 @@ This repository started as a dump from the StemCenter.  The branches are for scr
 2. You don't talk about FightClub
 
 ## More Stuff
-
 Happy coding!
