@@ -1,5 +1,4 @@
 #Code for my personal WebSite: DJBurn.com
-
 This is the repository for all the files of my personal website: djburn.com
 - [My Personal Website](http://www.djburn.com)
 
