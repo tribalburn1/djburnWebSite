@@ -6,6 +6,7 @@
 	-ms-transform: scale(1) rotate(0deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
 	transform: scale(1) rotate(0deg) translateX(0px) translateY(0px) skewX(0deg) skewY(0deg);
 }
+
 /* Effects */
 .trigger.effect-slideup {
 	-moz-transform: translateY(100px);
@@ -62,7 +63,6 @@
 	-ms-transform: rotate(45deg);
 	transform: rotate(45deg);
 }
-
 .trigger.effect-skew {
 	-moz-transform: translateY(100px) skewX(-45deg) skewY(45deg);
 	-webkit-transform: translateY(100px) skewX(-45deg) skewY(45deg);
