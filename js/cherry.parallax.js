@@ -10,7 +10,6 @@ function getWindowHeight() {
         //IE 4 compatible
         myHeight = document.body.clientHeight;
     }
-
     return myHeight
 }
 
