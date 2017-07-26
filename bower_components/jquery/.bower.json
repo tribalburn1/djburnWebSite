@@ -14,6 +14,7 @@
     "Gruntfile.js",
     "package.json"
   ],
+  
   "devDependencies": {
     "sizzle": "2.1.1-jquery.2.1.2",
     "requirejs": "2.1.10",
